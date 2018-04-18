@@ -5,7 +5,7 @@
 color_keep = {255, 174, 201, 1}
 
 
-drawBgImage = function(image, conf_window, x, y)
+drawBGImage = function(image, conf_window, x, y)
 
 	local x, y = x or 0, y or 0
 
